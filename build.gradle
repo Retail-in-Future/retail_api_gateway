@@ -16,7 +16,7 @@ apply plugin: 'idea'
 apply plugin: 'org.springframework.boot'
 
 jar {
-    baseName = 'retail_stock'
+    baseName = 'retail_api_gateway'
     version = '0.0.1'
 }
 
